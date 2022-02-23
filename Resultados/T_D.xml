@@ -1,0 +1,171 @@
+ <T>période d’exposition au coronavirus</T> <D num="1">la période d’incubation avant l’apparition des symptômes</D> <D num="2">ou de la date de notification du cas lorsque les données concernant le début des symptômes n’était pas disponible</D> 
+ <T>Insuffisance respiratoire</T> <D> la nécessité d’oxygène à haut débit, d’une ventilation non invasive, d’une ventilation mécanique ou d’une oxygénation extracorporelle [ECMO]</D> 
+ <T>séroréponse pour un participant</T> <D>l'obtention d'une augmentation ≥ 4 fois de la NT50 par rapport à la ligne de base (avant la série primaire)</D> 
+ <T>NT50 de l'échantillon</T> <D>la dilution réciproque du sérum à laquelle 50 % du virus est neutralisé.</D> 
+ <T> contact étroit</T> <D>le fait d'être à moins de deux mètres d'un malade suspecté ou confirmé ou dans une pièce ou une zone de soins pendant une période prolongée sans équipement de protection individuelle ou exposé directement aux sécrétions d'une personne infectée par le SARS-CoV-2</D> 
+ <T>clientèles généralement considérées</T> <D>étant immunosupprimées et à risque plus élevé de complications liées à la COVID-19 dans une perspective de meilleure prise en charge clinique par le réseau de la santé et des services sociaux</D> 
+ <T>paramètre d’efficacité principal</T> <D>tout cas de COVID-19 symptomatique confirmé par RT-PCR (transcription inverse suivie d’une amplification en chaîne par polymérase)</D> 
+ <T><REF ref= "T" indcf= "" indanf= "1">fréquence d'apparition des effets indésirables</REF></T> <T num="1"><Anf anf= "T" tipanf= "OD" indanf= "1">fréquent</Anf></T> <D num="1">≥ 1/100 à &lt; 1/10</D> <T num="2"><Anf anf= "T" tipanf= "OD" indanf= "1">peu fréquent</Anf></T> <D num="2">≥ 1/1 000 à &lt; 1/100</D> <T num="3"><Anf anf= "T" tipanf= "OD" indanf= "1">rare</Anf></T> <D num="3">≥ 1/10 000 à &lt; 1/1 000</D> <T num="4"><Anf anf= "T" tipanf= "OD" indanf= "1">indéterminé</Anf></T> <D num="4">la fréquence ne peut être estimée à partir des données disponibles</D> 
+ <T>N = 162 Avec cancer</T> <D>ceux avec un diagnostic actuel de, ou un antécédent de cancer invasif ou de malignité hématologique</D> 
+ <T>personne contact à risque élevé</T> <D>toute personne n’ayant pas reçu un schéma complet de primo-vaccination OU ayant reçu un schéma complet de primo-vaccination depuis moins de 7 jours (vaccins Cominarty/Pfizer, Moderna, AstraZeneca/Vaxzeria ou Covishield) ou moins de 4 semaines (vaccin Covid-19 vaccin Janssen®) OU atteinte d’une immunodépression grave, c’est-à-dire présentant une affection le rendant éligible à une 3e dose de primo-vaccination, même si celle-ci a déjà été administrée ET : - Ayant eu un contact direct avec un cas, en face à face, à moins de 2 mètres, quelle que soit la durée (ex. conversation, repas, contact physique)</D> 
+ <T>personne contact à risque modéré</T> <D>toute personne sans immunodépression grave ayant reçu un schéma complet de primo-vaccination depuis au moins 7 jours (vaccins Cominarty/Pfizer, Moderna, AstraZeneca/Vaxzeria ou Covishield) ou moins de 4 semaines (vaccin Covid-19 vaccin Janssen®) ET : - Ayant eu un contact direct avec un cas, en face à face, à moins de 2 mètres, quelle que soit la durée (ex. conversation, repas, contact physique)</D> 
+ <T>Elle</T> <D>étant la meilleure des universités américaines dédiées à la recherche et elle est régulièrement classée meilleure école de santé publique des Etats-Unis</D> 
+ <T>hypoxémie sévère</T> <D>une saturation en oxygène inférieure à 80 %</D> 
+ <T><REF ref= "T" indcf= "" indanf= "1">résilience</REF></T> <T><Anf anf= "T" tipanf= "pos" indanf= "1">la</Anf></T> <D>la capacité à vivre, à réussir, à se développer en dépit de l’adversité</D> 
+ <T>partie prenante</T> <D>tout porteur d'intérêts individuels ou collectifs, matériels ou symboliques, qui p eut être affectés par les décisions de l'entreprise mais qui peut aussi exercer un certain pouvoir sur elle</D> 
+ <T>politiques publiques</T> <D>des tentatives de régulation de situations présentant des problèmes publics dans une collectivité ou entre des collectivités</D> 
+ <T>paramètre d’efficacité principal</T> <D>tout cas1 de COVID-19symptomatique confirmé par RT-PCR (transcription inverse suivie d’une amplification en chaîne par polymérase)</D> 
+ <T>contact étroit dans une de ces zones</T> <D>étant minimalement dans une pièce fermée ou un rayon de deux mètres autour de l’usager suspecté ou confirmé</D> 
+ <T>issues sévères</T> <D>la COVID-19 confirmée en laboratoire présentant l'une des caractéristiques supplémentaires suivantes : signes cliniques au repos indicateurs d'une maladie systémique sévère; insuffisance respiratoire; signes de choc; dysfonctionnement rénal, hépatique ou neurologique aigu important; admission à l'unité de soins intensifs [USI] ou décès</D> 
+ <T>ÉI courants</T> <D>étant ceux qui se produisent chez 1 % à moins de 10 % des personnes vaccinées; les ÉI très courants se produisent chez 10 % ou plus des personnes vaccinées</D> 
+ <T>MCI grave</T> <D>entraînant une hospitalisation, une invalidité permanente ou un décès</D> 
+ <T>réactions allergiques immédiates légères à modérées</T> <D>étant limitées dans l'étendue des symptômes et l'implication des systèmes organiques ou même localisées au site d'administration</D> 
+ <T>ÉI sollicités sont très fréquents</T> <D>étant de 10 % ou plus</D> 
+ <T>complications graves liées à la COVID-19</T> <D>la COVID-19 confirmée en laboratoire présentant l'une des caractéristiques supplémentaires suivantes : signes cliniques au repos indicateurs d'une maladie systémique grave; insuffisance respiratoire; signes de choc; dysfonctionnement rénal, hépatique ou neurologique aigu important; admission à l'USI ou décèsNote de bas de page 130</D> 
+ <T>COVID-19 symptomatique</T> <D>ayant au moins un des symptômes suivants (fièvre objective de 37,8 °C ou plus, toux, essoufflement et anosmie ou agueusie) et un écouvillon positif pour le SRAS-CoV-2 par RT-PCR et confirmé par un Comité d'adjudication</D> 
+ <T>comorbidité</T> <D>la présence d'une ou plusieurs des affections médicales suivantes, légères à modérées et contrôlées au départ : maladie cardiovasculaire, maladie respiratoire, diabète ou obésité (IMC de 30 kg/m2 ou plus), selon les données à la date limite du 4 novembre 2020</D> 
+ <T>infection asymptomatique</T> <D>un participant à l'étude dont l'infection par le SRAS-CoV-2 a été confirmée par l'analyse virologique d'un prélèvement effectué à l'aide d'un écouvillon, et qui n'a signalé aucun symptôme défini par l'essai clinique de la COVID-19 confirmée</D> 
+ <T>admission à l'hôpital</T> <D>COVID-19 comme principale cause d'admission ou hospitalisation dans les 28 jours suivant un test PCR SARS-CoV-2 positif</D> 
+ <T>présence de comorbidités</T> <D>étant un participant à l'étude présentant au départ une ou plusieurs affections médicales associées à un risque accru d'évolution vers un cas de COVID-19 grave (par exemple asthme, maladie cérébrovasculaire, hypertension, maladie respiratoire, maladie du foie et obésité)</D> 
+ <T>infection à SARS-CoV-2</T> <D>un résultat positif au test PCR obtenu à partir d’écouvillons nasopharyngés et comprenait les patientes asymptomatiques et symptomatiques</D> 
+ <T>contact étroit</T> <D>le fait d’être à moins de 1,80 mètre d’une personne atteinte du COVID-19 pendant 15 minutes ou plus au total, de prodiguer des soins à la maison à une personne atteinte du COVID-19, d’avoir un contact physique direct avec une personne atteinte du COVID-19 (de la prendre dans les bras ou de l’embrasser), de partager les mêmes verres/tasses ou les mêmes couverts, ou d’être très près d’une personne atteinte du COVID-19 lorsque celle-ci éternue ou tousse dans votre direction</D> 
+ <T>maladie respiratoire grave</T> <D>une fréquence respiratoire ≥ 30 respirations par minute, une saturation en oxygène &lt; 93 % lorsque le patient respirait l’air ambiant, ou les deux</D> 
+ <T>cas symptomatiques</T> <D>présentant des symptômes affectant les voies respiratoires supérieures ou inférieures (p. ex., toux, essoufflement) ou une fièvre ≥ 37,5 °C</D> 
+ <T>cessation des paiements</T> <D>étant <PT>« </PT>l’impossibilité pour l’entreprise de faire face à son passif exigible avec son actif disponible<PT> »</PT></D> 
+ <T>place du numérique</T> <D>écosystème collaboratif</D> 
+ <T>comorbidité préexistante</T> <D>un IMC ≥ 30 kg/m2, un trouble cardiovasculaire, une maladie respiratoire ou un diabète</D>
+ <T>fièvre</T> <D>une température ≥ 37,8 °C, toux, essoufflement, anosmie ou agueusie</D>
+ <T>réservoir</T> <D>une ou plusieurs espèces animales, peu ou pas sensibles au virus, qui vont naturellement héberger un ou plusieurs virus</D> 
+ <T>virus</T> <D>sa structure se résumant à deux ou trois éléments, selon les virus</D> 
+ <T>porteur sain</T> <D num="1">une personne dont l'organisme est infecté par un agent infectieux (virus, bactérie, parasite) mais qui ne présente pas de signes cliniques de cette infection</D> <D num="2">porteur de l'agent infectieux dans son système sans être malade. <br/> En revanche, un porteur sain peut transmettre l'agent infectieux à d'autres personnes avec qui il est en contact</D> 
+ <T>anticorps neutralisants</T><D>,</D> <D>capables de neutraliser l’action du virus lorsque celui-ci est mis au contact de cellules cibles en laboratoire</D> 
+ <T>absence d’immunité post-infectieuse</T> <D>l’individu guéri n’ait pas développé de réponse protectrice par anticorps, même transitoire</D> 
+ <T>anticorps neutralisants</T> <D>une quantité insuffisante d’anticorps protecteurs, se situant chez 10 patients en-deçà de la limite de détection</D> 
+ <T>normalité rampante</T> <D>la façon dont un changement important ne peut être accepté comme normal s’il se produit lentement, par incréments inaperçus, quand il serait considéré comme inacceptable s’il a eu lieu en une seule étape ou sur une courte période</D> 
+ <T>normalité rampante</T> <D>ce type de tendances lentes œuvrant sous des fluctuations bruyantes </D> 
+ <T>comorbidités</T> <D>l'existence d'affections chroniques associées</D> 
+ <T>le paramètre Ro</T> <D num="1a">si le nombre de cas secondaires ayant été contaminés par un malade</D> <D num="1b">est inférieur à 1,6</D>
+ <T>covid-19</T> <D>la maladie et le virus, comme dans d'autres textes ultérieurs</D> 
+ <T num="1">coronavirus de Wuhan</T> <T num="2">2019 novel Coronavirus</T> <T num="3">2019-nCov</T> <T>virus de la pneumonie du marché aux fruits de mer de Wuhan</T> <D>coronavirus à l'origine de l’épidémie de <PT>«</PT> pneumonie de Wuhan <PT>»</PT></D> 
+ <T>R0</T> <D>reproduction initial (soit en début d’épidémie et sans aucune mesure de protection)</D> <T>Reff (effectif)</T> <D>reproduction pendant la crise en fonction des mesures prises pour limiter les contaminations</D> 
+ <T>protéines</T> <D>une lettre indiquant leur localisation : S (protubérances), E (enveloppe), M (membrane) et N (nucléocapside)</D> 
+ <D>Ces polyprotéines sont ensuite traitées pour générer 16 protéines non structurales</D> <T>nsp1 ~ 16</T> 
+ <D num="1">ils détectent la présence de protéines de structure du virus</D> <T num="2">antigènes</T> <D num="2">tout élément étranger à l’organisme capable de déclencher une réponse immunitaire</D> 
+ <T>le « D » de « COVID »</T> <D>le mot de base « disease »</D> 
+ <T>fournisseur de soins de santé</T> <D>un professionnel ou un organisme</D> 
+ <T>fournisseuse de soins de santé</T> <D>une personne</D> 
+ <T>masque chirurgical</T> <D>un masque d'intervention</D> 
+ <T>virulence</T> <D>la pathogénicité</D> 
+ <T>s'isoler</T> <D>le fait de se placer en isolement ou en quarantaine</D> 
+ <T>taux de mortalité</T> <D>le taux de létalité, même si ce terme fait référence à une autre notion</D> 
+ <T>taux de mortalité</T> <D>le taux de létalité</D> 
+ <T num="1">pathogénicité</T> <T num="2">pouvoir pathogène</T> <D>la virulence</D> 
+ <T>Clapping</T> <D>les applaudissements quotidiens aux balcons et aux fenêtres pour le personnel soignant</D> 
+ <T>Cluster</T> <D>un regroupement élevé de cas de personnes atteintes d’une même maladie au même endroit, au même moment, et avec une diffusion active</D> 
+ <T>Contagiosité</T> <T>Ro</T> 
+ <T>covidés</T> <D>ceux qui ont contracté la maladie à coronavirus, un peu comme on dit les grippés, les enrhumés</D> 
+ <T>Covid</T> <D> l’affection provoquée par le virus SARS-CoV-2, dans la nomenclature internationale</D> 
+ <T>Immunité croisée</T> <D> une immunité acquise lors d'une première infection et qui va protéger plus tard contre un autre agent infectieux - à savoir un virus ou une bactérie</D> 
+ <T>Inoculum</T> <D>la quantité de germes ou de substance inoculée ou à inoculer lors d’une vaccination</D> 
+ <T>Patient zéro</T> <D>la personne à l’origine de l’arrivée du virus sur un territoire</D> 
+ <T>Principes actifs </T> <D>une substance qui possède des propriétés thérapeutiques ou bien une molécule qui dans un médicament possède un effet thérapeutique</D> 
+ <D><REF ref= "D" indcf= "" inanf= "1">un récepteur membranaire présent à la surface des cellules cibles</REF></D> <T>ACE2</T> 
+ <T>Super spreader</T> <T>super-contaminateur</T> <T>super-propagateur</T> <D>un malade qui contamine un grand nombre d’autres personnes</D> 
+ <T>Syndrome</T> <D> un ensemble de symptômes ou de signes qui font penser à une maladie comme le Covid-19 et ses symptômes (toux, difficulté à respirer, fièvre, maux de gorge, maux de tête, douleurs articulaires, courbatures, agueusie, anosmie, etc.)</D> 
+ <T>Testing </T> <D>un test de dépistage Covid-19</D> 
+ <T>sanmitsu (三密?)</T> <D>la distanciation physique a été élu mot de l’année 2020 par la maison d’édition japonaise Jiyūkokuminsha</D> 
+ <T><REF ref= "T" indcf= "" inanf= "1">test de "confort"</REF></T> <D>que le test est toujours remboursé sur prescription médicale</D> 
+ <T>entourage des personnes immunodéprimées</T> <D>l'ensemble des personnes vivant sous le même toit, des personnes contribuant à leur prise en charge (personnels de santé, aides à domicile, auxiliaires de vie) et des personnes susceptibles d'en assurer la garde (assistante maternelle, famille, garde-malade, etc.)</D> 
+ <T>lieux publics</T> <D>les écoles, universités, bibliothèques publiques, musées, transports en commun, lieux d’hébergement communautaires et milieux de travail</D> 
+ <T>personne entièrement vaccinée </T> <D>une personne qui a reçu : <br/>o La série complète d’un vaccin contre la COVID-19 autorisé par Santé Canada 1, ou une combinaison de tels vaccins, <br/>o Une ou deux doses d’un vaccin contre la COVID-19 non autorisé par Santé Canada, suivies d’une dose d’un vaccin contre la COVID-19 à base d’ARNm autorisé par Santé Canada, ou <br/>o Trois doses d’un vaccin contre la COVID-19 non autorisé par Santé Canada; et <br/>o La personne a reçu sa dernière dose de vaccin contre la COVID-19 il y a au moins 14 jours</D> 
+ <T>auto-isolement (quarantaine)</T> <D>Lorsqu’une personne se sent bien, mais pourrait avoir été exposée à la COVID-19, les responsables de la santé publique utilisent le terme « quarantaine » pour décrire la pratique d’auto-isolement</D> 
+ <T>protection</T> <D>par exemple le masque porté par les deux personnes</D> 
+ <T>période prolongée</T> <D>plus de 15 minutes par jour (au total)</D> 
+ <T>Vaccin contre la COVID-19 de Pfizer-BioNTech</T> <D>suspension pour injection intramusculaire qui doit être diluée avant l’administration</D> 
+ <T>Vaccin contre la COVID-19 de Pfizer-BioNTech</T> <D>vaccin utilisé pour prévenir la COVID-19 causée par le SRAS-CoV-2</D> 
+ <T>vitamine D</T> <D>hormone produite par les reins qui contrôle la concentration de calcium dans le sang et affecte le système immunitaire</D> 
+ <T>poumons</T> <D>cible commune de la tempête de cytokines du COVID-19, les reins le sont également, ce qui fait que 1 adulte sur 4 aux États-Unis atteint de diabète entraînant une maladie rénale diabétique présente un risque accru de mortalité par virus</D> 
+ <D num="1">une protéine à la surface de certaines cellules rénales</D> <T>enzyme de conversion de l'angiotensine 2 (ACE2)</T> <D num="2">principal récepteur d'entrée pour la COVID-19 et aide à l'activation de sa réponse immunitaire incontrôlée</D> 
+ <T>capacité de maîtrise de soi</T> <D>ressource importante en termes de respect des restrictions, a également été bénéfique pour le bien-être mental</D> 
+ <T>épithéliums respiratoires et olfactifs</T> <D>localisation stratégiquement importante pour contribuer à l'infectivité et à la propagation du SRAS-CoV-2</D> 
+ <T>le fait de porter un masque, garder ses distances, d'éviter les foules</T> <D>recommandations courantes pour contenir l'épidémie de COVID-19</D> 
+ <T>inflammation persistante ou chronique</T> <D>facteur sous-jacent de ces changements chez les survivants du COVID-19</D> 
+ <T>MRC</T> <D> type de maladie rénale dans laquelle la fonction rénale diminue sur une période de plusieurs mois à plusieurs années, et est plus fréquente chez les personnes âgées</D> 
+ <T>L'AKI</T> <D>perte brusque de la fonction rénale qui se déroule sur sept jours ou moins et peut avoir plusieurs causes, y compris les dommages et l'inflammation causés par le virus COVID-19 lui-même, la perte du flux sanguin vers les reins, les dommages causés par les médicaments pharmaceutiques ou d'autres substances ingérées / injectées, ou par tout objet obstruant l'écoulement de l'urine dans les voies urinaires</D> 
+ <T>l'adhésion accrue des femmes aux politiques relatives aux coronavirus</T> <D>des raisons de la vulnérabilité et de la mortalité plus faibles qu'elles ont subies, par rapport aux hommes, au début de l'épidémie</D> 
+ <T>la perte d'odeur</T> <D>symptôme fréquemment rapporté de la COVID-19, mais les rapports de prévalence varient d'une étude à l'autre et vont de 5% à 98%</D> 
+ <T>la perte d'odeur</T> <D>méthode de dépistage efficace pour la détection précoce de la COVID-19</D> 
+ <T>les souris infectées</T> <D>modèle utilisé pour développer la compréhension de la maladie pulmonaire et tester les interventions pharmacologiques</D> 
+ <T>La deuxième étape de la réponse immunitaire</T> <D>création de plasmocytes à longue durée de vie, qui produisent des anticorps de haute qualité qui confèrent une immunité durable</D> 
+ <T>les protéines de pointe à la surface du virus SRAS-CoV-2</T> <D> moyen par lequel il se fixe aux cellules ciblées pour l'infection</D> 
+ <T>La voie alternative du complément (alternative pathway of complement, APC) </T> <D>une des trois processus de réaction en chaîne impliquant la division et la combinaison de plus de 20 protéines différentes, appelées protéines du complément, qui sont généralement activées lorsque des bactéries ou des virus envahissent le corps</D> 
+ <T>S1 et S2</T> <D>composants qui lient le virus au sulfate d'héparane, déclenchant la cascade APC et empêchant le facteur H de se connecter au sucre, et à leur tour, désactivant la régulation du complément par quel facteur H dissuade une réponse immunitaire mal orientée</D> 
+ <T>la thérapie en ligne</T> <D> un pont trop loin pour de nombreux praticiens des soins de santé mentale</D> 
+ <T>la pandémie COVID-19 </T> <D> danger supplémentaire pour le statut international des États-Unis</D> 
+ <D>la quantité de virus produite par une personne infectée</D> <T>charge virale</T> 
+ <T>l'apparition des symptômes</T> <D>premières preuves facilement observables de la maladie</D> 
+ <T>les symptômes</T> <D>moyen naturel de ralentir et de réduire la contagion</D> 
+ <T>le nombre de patients asymptomatiques</T> <D> mauvaise nouvelle en termes de contrôle de la contagion</D> 
+ <T>La période d'isolement</T> <D>période d'isolement classique d'un patient symptomatique atteint de COVID-19, à partir de l'apparition des symptômes (et NON à partir du jour de la détection), comme détaillé ci-dessous</D> 
+ <T>Phylogénétique</T> <D> étude des relations évolutives entre les entités biologiques (plateforme de formation EMBL-EBI)</D> 
+ <T>A phylogénie L'arbre</T> <T>arbre</T> <D>explication de l'évolution des séquences, de leurs relations généalogiques, et donc de la façon dont elles sont devenues ce qu'elles sont aujourd'hui</D> 
+ <T>les voyages humains</T> <D> moyen par lequel le virus se propage</D> 
+ <T>la chloroquine</T> <D>traitement "qui a des effets et des propriétés qui pourraient le rendre intéressant dans le traitement du Covid-19</D> 
+ <T>les priorités de la politique suisse</T> <D>priorités du Conseil fédéral, mais ce sont aussi celles du Parlement</D> 
+ <T>la chloroquine</T> <D>des rares traitements qui peut marcher pour des cas sévères." Il a toutefois, lui aussi, répété qu'il n'y avait "aucune preuve" de l'efficacité de ce médicament, notamment en matière de prévention</D> 
+ <T>L’obturateur œsophagien </T> <D>modalité temporaire de prise en charge</D> 
+ <T>Un test antigénique de type Covid </T> <D> dispositif capable de détecter les antigènes, c'est-à-dire certaines protéines caractéristiques produites par le Sars-CoV-2 dans le corps humain</D> 
+ <T>Un porteur sain </T> <D> personne dont l'organisme est infecté par un agent infectieux (virus, bactérie, parasite) mais qui ne présente pas de signes cliniques de cette infection</D> 
+ <T>La lymphopénie </T> <D> caractéristique importante des patients gravement malades infectés par le SARS-CoV, car une invasion ciblée des lymphocytes par des particules virales du SARS-CoV endommage la composante cytoplasmique du lymphocyte et provoque sa destruction</D> 
+ <T>L'œil </T> <D> cible possible du virus car l'ACE2 (cible du SRAS-CoV-2) est présente dans la rétine humaine, la choroïde de l'épithélium pigmentaire rétinien vascularisé et la cornée ainsi que sur l'épithélium conjonctival</D> 
+ <T>Le vaccin russe Spoutnik V </T> <D>premier au monde à être homologué, son nom faisant référence au premier satellite envoyé dans l'espace</D> 
+ <T>La Russie, la Chine et Cuba </T> <D>premières à injecter à grande échelle un vaccin et à le commercialiser</D> 
+ <T>L'ACE2 </T> <D> enzyme de conversion des récepteurs cellulaires de l'angiotensine II</D> 
+ <T>Les bidonvilles urbains </T> <D> autre préoccupation pour la transmission amplifiée et les flambées explosives</D> 
+ <T>La COVID-19 </T> <D>maladie infectieuse causée par le dernier coronavirus qui a été découvert »</D> 
+ <T>le variant Delta </T> <D> nouvelle menace importante, donc nous devons rester vigilants », a toutefois déclaré son patron Stéphane Bancel</D> 
+ <T>L'État de Washington </T> <D>Wuhan des États-Unis</D> 
+ <T>le Tamiflu® </T> <D>instrument majeur dans la stratégie de préparation et de réaction à une pandémie de grippe</D> 
+ <T>La sédentarité </T> <D>surrisque majeur</D> 
+ <T>La peur </T> <D> sentiment naturel qui comme la douleur ne doit pas être supprimé complètement car le prix à payer est élevé</D> 
+ <T>L’atténuation </T> <D> processus en lien avec le saut de la barrière inter-spécifique</D> 
+ <T>Le masque </T> <D>signe de civisme, ça montrer qu’on est mobilisé, qu’on fait attention à l’autre », souligne ce Français installé à Taïwan depuis 12 ans. « Le port du masque est un réflexe culturel, confirme Stéphane Corcuff</D> 
+ <T>la colchicine </T> <D> anti-inflammatoire très puissant d’origine végétale, utilisé habituellement pour traiter la goutte et la péricardite (une inflammation de l'enveloppe du coeur)</D> 
+ <T>Le SARS </T> <D>maladie semblable à la grippe, qui entraîne parfois une insuffisance respiratoire évolutive sévère</D> 
+ <T>Le syndrome respiratoire aigu sévère (SRAS) </T> <D>maladie respiratoire sévère et aiguë causée par le coronavirus du SRAS (SARS-CoV)</D> 
+ <T>Le traitement du MERS </T> <D> traitement de support</D> 
+ <T>le réservoir de MERS-CoV </T> <D>dromadaires, mais le mécanisme de la transmission des chameaux à l'homme est inconnu</D> 
+ <T>Le COVID-19 </T> <D> maladie respiratoire aiguë, parfois grave, provoquée par un nouveau coronavirus, le SRAS-CoV-2</D> 
+ <T>L'Indonésie </T> <D>des pays asiatiques les plus touchés par la pandémie, avec plus de 1,4 million de cas et près de 39.000 morts, mais le bilan réel pourrait être plus lourd</D> 
+ <T>Les coronavirus </T> <D>cause de 15 à 30 % des rhumes courants</D> 
+ <T>La réplicase </T> <D>première protéine fabriquée ; une fois le gène codant la réplicase traduit par le ribosome de la cellule hôte, la traduction est arrêtée par un codon stop</D> 
+ <T>l’épidémie </T> <D> “prétexte” des États pour porter atteinte aux “droits humains”</D> 
+ <T>EcoHealth Alliance </T> <D> ONG qui veut « prévenir les prochaines pandémies », notamment en collectant les virus dans la faune sauvage</D> 
+ <T>L’hydroxychloroquine </T> <D>médicament utilisé depuis des années</D> 
+ <T>Le confinement </T> <D> choix qui a été fait par certains pays et pas par d’autres</D> 
+ <T>coronavirus </T> <D>famille de virus qui provoquent des maladies allant d’un simple rhume (certains virus saisonniers sont des coronavirus) à des pathologies plus sévères (comme les détresses respiratoires dues au MERS-CoV, du SRAS-CoV ou de la Covid-19)</D> 
+ <T>“vaccin” Moderna </T> <D> substrat d’oxyde de graphène réduit à base de carbone dans lequel sont incorporées des nanoparticules</D> 
+ <T>PEG et l’alcool éthylénique</T> <D>tous deux connus pour être cancérigènes et génotoxiques</D> 
+ <T>PEG </T> <D>seul adjuvant déclaré sur la fiche technique énumérant les ingrédients du “vaccin” Astrazeneca, mais contenu dans les “vaccins” Pfizer et Moderna</D> 
+ <T>temps de génération </T> <D>délai qui sépare l'apparition des signes cliniques d'une personne infectée et l'apparition des signes cliniques des ou de la personne qu'elle a infectée</D> 
+ <T>taux de reproduction de base (R0) </T> <D>nombre moyen d'individus qu'une personne infectieuse peut infecter, tant qu'elle est contagieuse</D> 
+ <T>œil </T> <D> cible possible du virus car l'ACE2 (cible du SRAS-CoV-2)[179] est présente dans la rétine humaine, la choroïde de l'épithélium pigmentaire rétinien vascularisé et la cornée ainsi que sur l'épithélium conjonctival</D> 
+ <T>embolie massive </T> <D> cause majeure de mortalité[221], surtout chez les sujets jeunes et chez les patients sévèrement atteints</D> 
+ <T>détresse respiratoire aiguë (SDRA) </T> <D>cause physiologique principale de la mortalité de la Covid-19[280]</D> 
+ <T>charge virale </T> <D>quantité de virus dans une unité de volume</D> 
+ <T>lymphopénie </T> <D> caractéristique importante des patients gravement malades infectés par le SARS-CoV[345], car une invasion ciblée des lymphocytes par des particules virales du SARS-CoV endommage la composante cytoplasmique du lymphocyte et provoque sa destruction</D> 
+ <T>N</T> <D num="1">nombre de sujets dans le groupe considéré ou l’échantillon total</D> <D num="2">valeur qui a servi de dénominateur pour le calcul des pourcentages</D> 
+ <T>immunothérapie adoptive utilisant des lymphocytes T</T> <D> moyen efficace de protéger les personnes vulnérables, en particulier celles dont le système immunitaire est affaibli en raison d'un traitement anticancéreux ou d'une transplantation</D> 
+ <T>impact de l'immunité naturelle et induite par le vaccin</T> <D>facteur clé pour façonner la trajectoire future de la pandémie mondiale de coronavirus, connue sous le nom de COVID-19</D> 
+ <D>Le spectre des symptômes de la maladie associée</D> <T>COVID-19</T> 
+ <D num="1">cette forme de traitement en ligne</D> <T>santé mentale en ligne</T> <D num="2">en moyenne aussi efficace que le traitement en face à face, malgré la distance entre le praticien et le patient</D> 
+ <T num="1">phylogénieL'arbre</T> <T num="2"> arbre</T> <D>explication de l'évolution des séquences, de leurs relations généalogiques, et donc de la façon dont elles sont devenues ce qu'elles sont aujourd'hui</D> 
+ <T num="1">anticorps français</T> <T num="2">Xav-19</T> <D>traitement mis au point par la biotech nantaise Xenothera</D> 
+ <D num="1">Ce traitement par anticorps</D> <T>AZD7442</T> <D num="2">n'avait toutefois auparavant pas montré son efficacité sur les personnes déjà exposées au virus</D> 
+ <D>la maladie dans plusieurs langues, dont la langue française</D> <T>maladie à coronavirus 2019 (COVID-19)</T> 
+ <T num="1">confinement</T> <T num="2">circuit breaker</T> <D>casser le cycle de la transmission du virus</D> 
+ <T>masque chirurgical</T> <D>un masque d'intervention</D> 
+ <D>la célèbre Fête de la bière de Munich</D> <T>Oktoberfest</T> 
+ <T num="1">oseltamivir</T> <T num="2">Tamiflu</T> <D>l'autre antiviral inhibiteur de la neuraminidase</D> 
+ <T num="1">Le méthanol</T> <T num="2">alcool de bois</T> <D>substance dangereuse</D> 
+ <D num="1">un traitement par anticorps</D> <T>AZD7442</T> <D num="2">et qui doit permettre à la fois de prévenir et de traiter la maladie</D> 
