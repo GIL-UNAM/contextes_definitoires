@@ -101,7 +101,6 @@
 <CD num="499"> <PP tipp="aut">nous reconnaissons</PP> </CD>
 <CD num="505"> <PP> Stéphane Corcuff</PP> </CD>
 <CD num="515"> <PP tipp="aut">selon l’ONU</PP> </CD>
-<CD num="516"> </CD>
 <CD num="517"><PP tipp="aut">Selon un autre article de France Soir</PP> </CD>
 <CD num="531"><PP tipp="aut">Selon ces derniers</PP> </CD>
 <CD num="532"><PP tipp="inst">Selon une étude menée par l'Université McGill publiée dans Science</PP> <PP>les chercheurs</PP> </CD>
