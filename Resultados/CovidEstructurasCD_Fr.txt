@@ -330,7 +330,7 @@
 <CD num="330"><T></T><s/><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="331"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="332"><T></T><s/><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
-<CD num="333"><T></T><s/><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D></CD>
+<CD num="333"><T></T><s/><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="334"><PVD><VD lemme="appeler"></VD><MRD></MRD></PVD><T></T><s/><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="335"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="336"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
