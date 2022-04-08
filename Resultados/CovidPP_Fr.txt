@@ -1,0 +1,109 @@
+﻿<CD num="5"><PP tipp="aut">Les CDC</PP> </CD>
+<CD num="6"><PP tipp="aut">La recension de la littérature effectuée par l’INESSS</PP> </CD>
+<CD num="14"> <PP tipp="inst">En psychologie,</PP> <PP tipp="aut">Boris Cyrulink</PP> </CD>
+<CD num="15"><PP tipp="aut">Freeman</PP> </CD>
+<CD num="16"> <PP tipp="inst">que ce soit dans le secteur de la santé ou dans un autre secteur</PP> </CD>
+<CD num="21"><PP tipp="inst">En général,</PP> </CD>
+<CD num="29"><PP tipp="inst">Dans l'essai clinique, </PP> </CD>
+<CD num="34"> <PP tipp="aut">par l'article 575, alinéa 2 du code de commerce</PP> </CD>
+<CD num="35"><PP tipp="inst">Dans cette optique</PP> </CD>
+<CD num="45"> <PP tipp="aut">Les hommes politiques</PP> </CD>
+<CD num="47"> <PP tipp="aut">les scientifiques</PP> <PP tipp="inst">dans les modèles de simulation</PP> </CD>
+<CD num="48"><PP tipp="inst">Dans le décret français no 2020-545 du 11 mai 2020</PP> </CD>
+<CD num="49"> <PP tipp="inst">internationalement</PP> <PP tipp="inst">l'Institut Pasteur</PP> </CD>
+<CD num="57"><PP tipp="inst">En langue courante</PP> </CD>
+<CD num="58"> <PP tipp="aut">certains auteurs</PP> </CD>
+<CD num="60"><PP tipp="aut">Certains auteurs</PP> </CD>
+<CD num="61"> <PP tipp="aut">certains auteurs</PP> </CD>
+<CD num="62"> <PP tipp="aut">certains auteurs</PP> </CD>
+<CD num="65"> <PP tipp="aut">Les scientifiques</PP> </CD>
+<CD num="69"> <PP tipp="inst">en microbiologie</PP> </CD>
+<CD num="75"> <PP tipp="inst">Anglicisme</PP> </CD>
+<CD num="76"><PP tipp="temp">Le 1er décembre 2020</PP> <PP tipp="inst">au Japon</PP> </CD>
+<CD num="80"><PP tipp="inst">Aux fins de la gestion des cas, contacts et éclosions,</PP> </CD>
+<CD num="86"><PP tipp="aut">Selon les chercheurs</PP> </CD>
+<CD num="87"><PP tipp="inst">Selon une étude menée par l'University of Michigan publiée dans Kidney International</PP> </CD>
+<CD num="91"><PP tipp="inst">En France</PP> </CD>
+<CD num="92"><PP tipp="temp">Le 17 mars</PP> <PP tipp="aut">l'OMS soulignait</PP> <PP tipp="inst">dans un précédent communiqué</PP> </CD>
+<CD num="100"><PP tipp="inst">Cette enquête épidémiologique</PP> </CD>
+<CD num="101"> <PP>selon la liste publiée par l'Office fédéral de la santé publique (OFSP)</PP> </CD>
+<CD num="113"> <PP tipp="aut">est apparu en octobre 2020</PP> </CD>
+<CD num="129"> <PP tipp="aut">comme définie par la FDA</PP> </CD>
+<CD num="134"> <PP tipp="inst">Le présent projet de budget</PP> </CD>
+<CD num="136"> <PP tipp="inst">un récent rapport de l'OMS</PP> </CD>
+<CD num="139"><PP tipp="aut">L'IDSA (Infectious Diseases Society of America) et l'OMS ont récemment reconnu que</PP> </CD>
+<CD num="140"> <PP tipp="aut">les autorités sanitaires mondiales</PP> </CD>
+<CD num="145"> <PP tipp="aut">souligne Myron Levin,, professeur à l'Université du Colorado aux États-Unis et en charge de l'essai</PP> </CD>
+<CD num="149"><PP tipp="aut">Le professeur</PP> </CD>
+<CD num="155"> <PP tipp="inst">vaste étude basée sur 86 742 patients atteints de Covid-19 en Suède</PP> <PP tipp="temp">entre le 1er février et le 14 septembre 2020</PP> </CD>
+<CD num="158"> <PP tipp="inst">dans une étude</PP> <PP tipp="temp"> du 24 mars</PP> </CD>
+<CD num="160"><PP tipp="aut">Pour les auteurs de cette étude</PP> </CD>
+<CD num="165"> <PP>selon le règlement européen (UE) 2016/425 et la norme NF EN 149</PP> </CD>
+<CD num="167"><PP tipp="temp">Début juin 2021</PP> <PP>les chercheurs du groupe du Pr Bridle</PP> </CD>
+<CD num="171"><PP tipp="inst">Dans la mythologie slave</PP> </CD>
+<CD num="175"> <PP tipp="aut">Richard Boissinot, président du Syndicat des travailleuses et des travailleurs du CIUSSS de la Capitale-Nationale</PP> </CD>
+<CD num="176"> <PP tipp="aut">[9]</PP> </CD>
+<CD num="182"> <PP tipp="aut">Étienne Decroly</PP> </CD>
+<CD num="183"><PP tipp="aut">Les chercheurs du prestigieux Salk Institute, fondé par le pionnier du vaccin Jonas Salk, développeur du premier vaccin antipoliomyélitique</PP> <PP tipp="inst">une publication importante</PP> </CD>
+<CD num="184"> <PP tipp="inst">article, publié le 30 avril 2021 dans Circulation Research</PP> </CD>
+<CD num="186"><PP tipp="temp">Le 17/04</PP> <PP tipp="aut">professeur Montagnier, Prix Nobel</PP> </CD>
+<CD num="199"> <PP tipp="aut">M. Carignan</PP> </CD>
+<CD num="200"><PP tipp="inst">D’autre part</PP> </CD>
+<CD num="206"> <PP tipp="aut">une scientiste et principalement allopathique</PP> </CD>
+<CD num="238"><PP tipp="aut">Les chercheurs</PP> </CD>
+<CD num="243"><PP tipp="aut">Pour la république populaire de Chine</PP> </CD>
+<CD num="246"> <PP tipp="aut">Eric Chaney</PP> </CD>
+<CD num="247"><PP tipp="temp">Le 19 mars</PP> </CD>
+<CD num="248"> <PP tipp="temp">le 18 mars</PP> <PP tipp="aut">Leilani Farha</PP> </CD>
+<CD num="254"> <PP>définie selon</PP><PP tipp="aut"> la HAS</PP> </CD>
+<CD num="255"> <PP tipp="temp">en décembre</PP> </CD>
+<CD num="261"> <PP tipp="aut">Les chercheurs</PP> </CD>
+<CD num="282"> <PP tipp="inst">le rapport de mutation en Inde de Scripps Research</PP> </CD>
+<CD num="296"> <PP tipp="aut">M. Cyr</PP> </CD>
+<CD num="297"> <PP tipp="temp">En septembre 2020</PP> </CD>
+<CD num="311"><PP tipp="inst">Plus largement</PP> </CD>
+<CD num="321"><PP tipp="inst">De manière simple</PP> </CD>
+<CD num="328"> <PP tipp="inst">dans le cas d’une vaccination</PP> </CD>
+<CD num="346"><PP tipp="inst">Initialement</PP> </CD>
+<CD num="374"> <PP> l’OMS</PP> </CD>
+<CD num="376"> <PP tipp="aut">Arnaud Fontanet</PP> </CD>
+<CD num="385"> <PP tipp="aut">[1],[2]</PP> <PP tipp="aut">[1],[2]</PP> <PP tipp="aut">[2]</PP> </CD>
+<CD num="389"><PP tipp="temp">Aujourd'hui</PP> </CD>
+<CD num="391"> <PP tipp="aut">l’AFP</PP> </CD>
+<CD num="398"><PP tipp="inst">En Suisse</PP> </CD>
+<CD num="410"><PP tipp="aut">M. Didier Hoch</PP> </CD>
+<CD num="413"> <PP tipp="aut">le Président directeur général du groupe, M. Franz Humer</PP> <PP tipp="temp">le 18 octobre 2005</PP> </CD>
+<CD num="415"> <PP tipp="inst">Du point de vue clinique</PP> </CD>
+<CD num="425"> <PP tipp="inst">en usage curatif</PP> </CD>
+<CD num="426"> <PP tipp="inst">en usage préventif</PP> </CD>
+<CD num="429"> <PP tipp="temp">le 18 octobre dernier</PP> <PP tipp="aut">Roche</PP> </CD>
+<CD num="434"><PP tipp="temp">Aujourd'hui</PP> </CD>
+<CD num="438"><PP tipp="aut">Je</PP> </CD>
+<CD num="452"> <PP tipp="aut">l’INRA</PP> </CD>
+<CD num="458"> <PP tipp="temp">avant toute détection de foyers porcins</PP> </CD>
+<CD num="461"><PP tipp="aut">Les chercheurs</PP> </CD>
+<CD num="464"><PP tipp="inst">Selon une étude menée par Vienna University of Technology publiée dans International Journal of Multiphase Flow</PP> </CD>
+<CD num="465"><PP tipp="aut">Les chercheurs</PP> </CD>
+<CD num="466"><PP tipp="aut">Selon les chercheurs</PP> </CD>
+<CD num="468"><PP tipp="inst">Selon une étude menée par Bocconi University publiée dans Proceedings of the National Academy of Sciences</PP> </CD>
+<CD num="469"><PP tipp="inst">Selon une étude menée par Monell Chemical Senses Center publiée dans Chemical Senses</PP> </CD>
+<CD num="471"><PP tipp="aut">Comme le mentionnent les chercheurs</PP> </CD>
+<CD num="473"><PP tipp="aut">Comme le soulignent les chercheurs</PP> </CD>
+<CD num="475"><PP tipp="aut">Ils</PP> </CD>
+<CD num="476"><PP tipp="inst">Selon une étude menée par Eindhoven University of Technology publiée sur Cyberpsychology, Behavior, and Social Networking</PP> </CD>
+<CD num="478"> <PP tipp="aut">(Prof Jonathan Ball, Ibid.)</PP> </CD>
+<CD num="480"><PP tipp="aut">Nous avons vu</PP> </CD>
+<CD num="484"> <PP tipp="inst">(Ibid.)</PP> </CD>
+<CD num="487"><PP tipp="aut">Pour Isabelle Moret</PP> </CD>
+<CD num="488"><PP tipp="aut">Pour le médecin cantonal Karim Boubaker</PP> </CD>
+<CD num="492"> <PP tipp="aut">annoncée par la présidente von der Leyen</PP> <PP tipp="inst">dans son discours sur l'état de l'Union de 2020</PP> </CD>
+<CD num="498"><PP tipp="aut">L'organisation, dans la version du texte en langue française</PP> </CD>
+<CD num="499"> <PP tipp="aut">nous reconnaissons</PP> </CD>
+<CD num="505"> <PP> Stéphane Corcuff</PP> </CD>
+<CD num="515"> <PP tipp="aut">selon l’ONU</PP> </CD>
+<CD num="516"> </CD>
+<CD num="517"><PP tipp="aut">Selon un autre article de France Soir</PP> </CD>
+<CD num="531"><PP tipp="aut">Selon ces derniers</PP> </CD>
+<CD num="532"><PP tipp="inst">Selon une étude menée par l'Université McGill publiée dans Science</PP> <PP>les chercheurs</PP> </CD>
+<CD num="535"> <PP tipp="aut">Emmanuel Macron</PP> <PP tipp="temp">en 2020</PP> </CD>
+<CD num="540"> <PP tipp="aut">Nous pensons</PP> <PP tipp="aut">précisait le Dr Robert Cox, co-directeur de cette étude</PP> </CD>
