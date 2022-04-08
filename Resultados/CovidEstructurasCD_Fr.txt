@@ -397,7 +397,7 @@
 <CD num="397"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="398"><PP tipp="inst"></PP><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="399"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
-<CD num="400"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><T></T></CD>
+<CD num="400"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><T></T><p/></CD>
 <CD num="401"><D></D><PVD><VD lemme="être"></VD><NX></NX></PVD><T></T><p/></CD>
 <CD num="402"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="403"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
