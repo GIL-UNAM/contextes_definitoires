@@ -115,7 +115,7 @@
 <CD num="115"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="116"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="117"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
-<CD num="118"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><s/><p/></CD>
+<CD num="118"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><s/><D></D><p/></CD>
 <CD num="119"><T></T><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="120"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
 <CD num="121"><T></T><PVD><VD lemme="être"></VD><NX></NX></PVD><D></D><p/></CD>
