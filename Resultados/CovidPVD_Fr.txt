@@ -1,0 +1,547 @@
+﻿<CD num="1"> <PVD><VD lemme="définir"> définie</VD><NX> comme</NX></PVD> </CD>
+<CD num="2"> <PVD><VD>définie</VD><NX> comme </NX> </PVD> </CD>
+<CD num="3"> <PVD><VD lemme="définir">a été définie</VD> <NX>comme</NX></PVD> </CD>
+<CD num="4"> <PVD><VD lemme="définir">est défini </VD> <NX>comme </NX></PVD> </CD>
+<CD num="5"> <PVD><VD lemme="définir"> définissent </VD> un <PT>«</PT><T> contact étroit</T><PT>»</PT> <NX>comme</NX> </PVD> </CD>
+<CD num="6"> <PVD><VD lemme="définir">vise à définir</VD> les <T>clientèles généralement considérées</T> <NX>comme</NX></PVD> </CD>
+<CD num="7"> <PVD><VD lemme="définir">était défini</VD> <NX>comme</NX></PVD> </CD>
+<CD num="8"> <PVD><VD lemme="définir">est définie</VD> <NX>comme </NX> <MRD>suit</MRD></PVD> </CD>
+<CD num="9"> <PVD><VD lemme="définir"> Définit</VD> <NX>comme</NX></PVD> </CD>
+<CD num="10"> <PVD><marc>se </marc><VD lemme="définir"> définit</VD><NX>comme</NX></PVD> </CD>
+<CD num="11"> <PVD><marc>se </marc><VD lemme="définir"> définit</VD> <NX>comme</NX></PVD> </CD>
+<CD num="12"> <PVD><marc>se </marc><VD lemme="définir"> définit</VD> <NX>comme </NX></PVD> </CD>
+<CD num="13"> <PVD><VD lemme="définir">définie</VD><NX>comme</NX> </PVD> </CD>
+<CD num="14"> <PVD><VD lemme="définir">définit</VD> <NX> comme</NX></PVD> </CD>
+<CD num="15"> <PVD><VD lemme="définir">définit</VD> une <T>partie prenante</T> <NX>comme</NX></PVD> </CD>
+<CD num="16"> <PVD><VD lemme="définir">peuvent être définies</VD><NX>comme</NX></PVD> </CD>
+<CD num="17"> <PVD><VD lemme="définir">était défini</VD><NX> comme</NX></PVD> </CD>
+<CD num="18"> <PVD><VD lemme="définir"> est défini </VD><NX> comme</NX></PVD> </CD>
+<CD num="19"> <PVD><VD lemme="définir">ont été définies</VD><NX> comme</NX></PVD> </CD>
+<CD num="20"> <PVD><VD lemme="définir">sont définis</VD> <NX>comme</NX></PVD> </CD>
+<CD num="21"> <PVD><VD lemme="définir">défini </VD><NX>comme</NX></PVD> </CD>
+<CD num="22"> <PVD><VD lemme="être"> peut être</VD> </PVD> <PVD><VD lemme="définir">définies</VD><NX> comme</NX></PVD> </CD>
+<CD num="23"> <PVD><VD lemme="définir">définis</VD><NX> comme</NX> </PVD> </CD>
+<CD num="24"> <PVD><VD lemme="définir">définies </VD><NX>comme</NX> </PVD> </CD>
+<CD num="25"> <PVD><VD lemme="définir"> a été définie </VD><NX>comme</NX></PVD> </CD>
+<CD num="26"> <PVD><VD lemme="définir">définie</VD><NX>comme</NX> </PVD> </CD>
+<CD num="27"> <PVD><VD lemme="définir">a été définie </VD><NX>comme</NX></PVD> </CD>
+<CD num="28"> <PVD><VD lemme="définir">a été définie </VD><NX>comme</NX> <MRD>suit</MRD> </PVD> </CD>
+<CD num="29"> <PVD> <VD lemme="définir">a été définie </VD><NX>comme</NX></PVD> </CD>
+<CD num="30"> <PVD><VD lemme="définir">était définie </VD><NX>comme</NX></PVD> </CD>
+<CD num="31"> <PVD><VD lemme="définir">est défini </VD><NX>comme</NX></PVD> </CD>
+<CD num="32"> <PVD><VD lemme="définir">définie</VD> <NX>comme </NX> </PVD> </CD>
+<CD num="33"> <PVD><VD lemme="définir">étaient définis </VD><NX>comme</NX></PVD> </CD>
+<CD num="34"><PVD><MRD>La notion de</MRD> <T>cessation des paiements</T> <VD lemme="définir">est définie</VD> <PP tipp="aut">par l'article 575, alinéa 2 du code de commerce</PP> <NX>comme</NX> </PVD> </CD>
+<CD num="35"> <PVD><VD lemme="définir">définir</VD>la <T>place du numérique</T> <NX>comme</NX> </PVD> </CD>
+<CD num="36"> <PVD><VD lemme="définir">définie</VD><NX>par</NX></PVD> </CD>
+<CD num="37"> <PVD><VD lemme="définir"> définie</VD><NX>par</NX></PVD> </CD>
+<CD num="38"> <PVD><VD lemme="définir">se définit</VD> <NX>par</NX></PVD> </CD>
+<CD num="39"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> <PVD><VD lemme="définir">défini</VD><NX>par</NX></PVD> </CD>
+<CD num="40"> </CD>
+<CD num="41"> </CD>
+<CD num="42"> </CD>
+<CD num="43"> </CD>
+<CD num="44"> <PVD><MRD><PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="45"> <PVD><NX>pour </NX><VD lemme="désigner">désigner</VD></PVD> </CD>
+<CD num="46"> <PVD><MRD>terme</MRD> <VD lemme="désigner">désignant</VD></PVD> </CD>
+<CD num="47"> <PVD><VD lemme="désigner">désignent</VD><NX> comme</NX></PVD> </CD>
+<CD num="48"> <PVD><NX>à </NX><VD lemme="désigner">désigner </VD></PVD> </CD>
+<CD num="49"> <PVD><VD lemme="désigner"> désigné</VD><PP tipp="inst">internationalement</PP> <MRD>sous le terme</MRD></PVD> <PVD><VD lemme="abréger">abrégé</VD></PVD> <PVD><MRD>parfois </MRD><VD lemme="appeler">appelé</VD></PVD> <PVD><VD lemme="être">est</VD> <NX>le</NX></PVD> </CD>
+<CD num="50"> <PVD><VD lemme="indiquer">indique</VD> <MRD>le nombre de</MRD></PVD> <PVD><VD lemme="désigner"> désigne </VD> <MRD>le nombre de</MRD> </PVD> </CD>
+<CD num="51"> <PVD><VD lemme="désigner">désignées </VD> <NX>par</NX></PVD> </CD>
+<CD num="52"> <PVD><VD lemme="désigner">désignées</VD></PVD> </CD>
+<CD num="53"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> <PVD><MRD>un terme qui </MRD><VD lemme="désigner">désigne</VD></PVD> </CD>
+<CD num="54"> <PVD><VD lemme="désigner">désigne</VD></PVD> </CD>
+<CD num="55"><PVD><MRD>Le terme</MRD> <PT>«</PT> <T>fournisseur de soins de santé</T> <PT>»</PT> <VD lemme="désigner">peut désigner</VD></PVD> </CD>
+<CD num="56"><PVD><MRD>Le terme</MRD> au féminin, <PT>«</PT> <T>fournisseuse de soins de santé</T> <PT>»</PT>, est uniquement utilisé <NX>pour</NX> <VD lemme="désigner"> désigner </VD></PVD> </CD>
+<CD num="57"> <PVD><MRD>le terme</MRD> <PT>«</PT> <T>masque chirurgical</T> <PT>»</PT> est parfois utilisé <NX>pour</NX> <VD lemme="désigner"> désigner</VD></PVD> </CD>
+<CD num="58"> <PVD><MRD>utilisent</MRD> <PT>«</PT> <T>virulence</T> <PT>»</PT> <NX>pour</NX> <VD lemme="désigner"> désigner</VD></PVD> </CD>
+<CD num="59"> <PVD><MRD>Le verbe</MRD> <PT>«</PT> <T>s'isoler</T> <PT>»</PT> <MRD>peut être utilisé</MRD> <NX>pour</NX> <VD lemme="désigner"> désigner</VD></PVD> </CD>
+<CD num="60"> <PVD><MRD>utilisent</MRD> <PT>«</PT> <T>taux de mortalité</T> <PT>»</PT> <NX>pour</NX> <VD lemme="désigner">désigner</VD></PVD> </CD>
+<CD num="61"> <PVD> utilisent <PT>«</PT> <T>taux de mortalité</T> <PT>»</PT> <NX>pour </NX><VD lemme="désigner"> désigner </VD></PVD> </CD>
+<CD num="62"> <PVD>utilisent <PT>«</PT> <T num="1">pathogénicité</T> <PT>»</PT> <MRD>et son synonyme</MRD> <PT>«</PT> <T num="2">pouvoir pathogène</T> <PT>»</PT> <NX>pour</NX> <VD lemme="désigner">désigner</VD> </PVD> </CD>
+<CD num="63"> <PVD><VD lemme="désigner"> Désigne </VD></PVD> </CD>
+<CD num="64"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> <PVD><MRD>Ce terme</MRD> <VD lemme="désigner">désigne</VD></PVD> </CD>
+<CD num="65"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> <PVD><VD lemme="désigner">désignent</VD><NX> par</NX></PVD> </CD>
+<CD num="66"> <PVD><NX>pour</NX> <VD lemme="désigner"> désigner</VD></PVD> </CD>
+<CD num="67"> <PVD><VD lemme="être">est</VD> <NX> l’</NX></PVD> <PVD>C’<PVD><VD lemme="être">est</VD> <NX> une</NX></PVD> </CD>
+<CD num="68"> <PVD><VD lemme="désigner"> Désigne </VD> </PVD> </CD>
+<CD num="69"> <PVD><MRD>Terme utilisé</MRD> <PP tipp="inst">en microbiologie</PP> <NX>pour</NX> <VD lemme="désigner">désigner</VD> </PVD> </CD>
+<CD num="70"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> <PVD>Cette expression <VD lemme="désigner">désigne</VD></PVD> </CD>
+<CD num="71"> <PVD><VD lemme="désigner"> Désigne</VD> </PVD> </CD>
+<CD num="72"> <PVD><VD lemme="désigner">est désigné</VD> sous le nom</PVD> </CD>
+<CD num="73"> <PVD><VD lemme="désigner">Désigne</VD></PVD> </CD>
+<CD num="74"> <PVD><VD lemme="désigner">Désigne </VD></PVD> </CD>
+<CD num="75"> <PVD> <VD lemme="désigner">désignant</VD></PVD> </CD>
+<CD num="76"> <PVD><MRD>le terme</MRD> <T>sanmitsu (三密?)</T> <VD lemme="désigner"> désignant </VD></PVD> </CD>
+<CD num="77"> <PVD><VD lemme="entendre">Entendez</VD> <NX>par</NX></PVD> </CD>
+<CD num="78"><PVD><MARC>On</MARC> <VD lemme="entendre">entend</VD><NX> par</NX></PVD> </CD>
+<CD num="79"><PVD><MARC>On</MARC> <VD lemme="entendre">entend</VD><NX> par</NX></PVD> </CD>
+<CD num="80"> <PVD> <MARC>on</MARC> <VD lemme="entendre"> entend </VD> <NX> par </NX> </PVD> </CD>
+<CD num="81"><PVD>Qu’<VD lemme="entendre">entend</VD><MARC>-on</MARC> <NX>par</NX> </PVD> </CD>
+<CD num="82"> <PVD><NX>par</NX> </PVD> <PVD><MARC>on</MARC> <VD lemme="entendre">entend</VD></PVD> </CD>
+<CD num="83"><PVD><NX>Par</NX> <PT>«</PT> <T>période prolongée</T> <PT>»</PT><PT>,</PT> <MARC>on</MARC> <VD lemme="entendre">entend</VD></PVD> </CD>
+<CD num="84"> <PVD><VD lemme="être"> est</VD> <NX>une</NX></PVD> </CD>
+<CD num="85"> <PVD><VD lemme="être"> est</VD> <NX> un</NX></PVD> </CD>
+<CD num="86"> <PVD><VD lemme="être">est</VD> <NX>une</NX></PVD> </CD>
+<CD num="87"> <PVD><VD lemme="être"> soient</VD> <NX>une</NX></PVD> </CD>
+<CD num="88"> <PVD><VD lemme="être"> est</VD><NX> le</NX> </PVD> </CD>
+<CD num="89"><PVD>C'<VD lemme="être"> est</VD> <NX>l'</NX><T>américain Pfizer</T>, allié à l'allemand BioNTech, <NX>qui</NX> <VD lemme="être"> a été</VD></PVD> </CD>
+<CD num="90"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="91"> <PVD>c' <VD lemme="être"> est</VD> <NX>l'</NX> <T>Agence nationale du médicament (ANSM)</T> <NX>qui</NX></PVD> </CD>
+<CD num="92"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="93"> <PVD><VD lemme="être"> sont</VD> <NX>un</NX> </PVD> </CD>
+<CD num="94"> <PVD><VD lemme="être"> est</VD><NX> un</NX> </PVD> </CD>
+<CD num="95"> <PVD><VD lemme="être"> est</VD><NX> le</NX> </PVD> </CD>
+<CD num="96"> <PVD><VD lemme="être"> sont </VD><NX> une</NX> </PVD> </CD>
+<CD num="97"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="98"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="99"> <PVD><VD lemme="être"> soit</VD> <NX>un</NX> </PVD> </CD>
+<CD num="100"> <PVD><VD lemme="être"> peuvent être </VD> <NX> la</NX> </PVD> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="101"> <PVD><VD lemme="être"> est</VD><NX> le</NX> </PVD> </CD>
+<CD num="102"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="103"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="104"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="105"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="106"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="107"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="108"> <PVD><VD lemme="être"> sont</VD> <NX>une</NX> </PVD> <PVD><VD lemme="être"> sont</VD><NX> des</NX> </PVD> </CD>
+<CD num="109"> <PVD><VD lemme="être"> est</VD> <NX>l'</NX> </PVD> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="110"> <PVD><VD lemme="être"> est</VD><NX> le</NX> </PVD> </CD>
+<CD num="111"> <PVD><VD lemme="être"> est</VD><NX> la</NX> </PVD> </CD>
+<CD num="112"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="113"> <PVD><VD lemme="être"> est</VD><NX> un</NX> </PVD> </CD>
+<CD num="114"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="115"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="116"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="117"> <PVD><VD lemme="être"> a été </VD> <NX>un</NX> </PVD> </CD>
+<CD num="118"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="119"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="120"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="121"> <PVD><VD lemme="être"> sera</VD> <NX>un</NX> </PVD> </CD>
+<CD num="122"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="123"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="124"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="125"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="126"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="127"> <PVD><VD lemme="être"> est</VD><NX> le</NX> </PVD> </CD>
+<CD num="128"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="129"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="130"> <PVD><VD lemme="être"> est</VD><NX> la</NX> </PVD> </CD>
+<CD num="131"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="132"> <PVD><VD lemme="être"> sont</VD> <NX>une</NX> </PVD> </CD>
+<CD num="133"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="134"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="135"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="136"> <PVD><VD lemme="être"> seront</VD><NX> le</NX> </PVD> <PVD><VD lemme="être"> sont</VD><NX> la</NX> </PVD> </CD>
+<CD num="137"> <PVD><VD lemme="être"> est</VD><NX> le</NX> </PVD> </CD>
+<CD num="138"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="139"> <PVD><VD lemme="être"> est</VD><NX> un</NX> </PVD> </CD>
+<CD num="140"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="141"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="142"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="143"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="144"> <PVD><VD lemme="être"> serait</VD> <NX>un</NX> </PVD> </CD>
+<CD num="145"> <PVD><VD lemme="être"> pourrait être</VD> <NX>un</NX> </PVD> </CD>
+<CD num="146"> <PVD><VD lemme="être"> a par ailleurs été</VD> <NX>l' un</NX> </PVD> </CD>
+<CD num="147"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="148"> <PVD><VD lemme="être"> sont</VD> <NX>la</NX> </PVD> </CD>
+<CD num="149"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="150"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="151"> <PVD><VD lemme="être"> est</VD><NX> le</NX> </PVD> </CD>
+<CD num="152"> <PVD><VD lemme="être"> est</VD><NX> le</NX> </PVD> </CD>
+<CD num="153"> <PVD><VD lemme="être"> peut être</VD><NX> le</NX> </PVD> </CD>
+<CD num="154"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="155"> <PVD><VD lemme="être"> sont</VD><NX> une</NX></PVD> </CD>
+<CD num="156"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="157"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="158"> <PVD><VD lemme="être"> semble être</VD><NX> le</NX> </PVD> </CD>
+<CD num="159"> <PVD><VD lemme="être"> pourrait aussi être</VD><NX> un</NX> </PVD> </CD>
+<CD num="160"> <PVD><VD lemme="être"> est</VD><NX> la</NX> </PVD> </CD>
+<CD num="161"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="162"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="163"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="164"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="165"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="166"> <PVD><VD lemme="être"> était</VD> <NX> la</NX> </PVD> </CD>
+<CD num="167"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="168"> <PVD><VD lemme="être"> sont </VD> <NX> les</NX> </PVD> </CD>
+<CD num="169"> <PVD><VD lemme="être"> a été </VD> <NX> le</NX> </PVD> </CD>
+<CD num="170"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="171"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="172"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="173"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="174"> <PVD><VD lemme="être"> a été </VD> <NX> le</NX> </PVD> </CD>
+<CD num="175"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="176"> <PVD><VD lemme="être"> sont</VD> <NX> tous</NX> </PVD> </CD>
+<CD num="177"> <PVD><VD lemme="être"> est</VD> <NX>un</NX></PVD> <PVD><VD lemme="nommer">nommé </VD> </PVD> </CD>
+<CD num="178"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="179"> <PVD><VD lemme="être"> sont</VD><NX> le</NX> </PVD> </CD>
+<CD num="180"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="181"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="182"> <PVD><VD lemme="être"> sont</VD><NX> le</NX> </PVD> </CD>
+<CD num="183"> <PVD><VD lemme="être"> est</VD> <NX>une</NX></PVD> </CD>
+<CD num="184"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="185"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="186"> <PVD><VD lemme="être"> serait</VD> <NX>un</NX> </PVD> </CD>
+<CD num="187"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="188"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="189"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="190"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="191"> <PVD><VD lemme="être"> sont</VD><NX> le</NX> </PVD> </CD>
+<CD num="192"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="193"> <PVD><VD lemme="être"> est</VD> <NX>l'</NX> </PVD> </CD>
+<CD num="194"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="195"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="196"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="197"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="198"> <PVD> <VD lemme="être"> serait</VD> <NX>une</NX> </PVD> </CD>
+<CD num="199"> <PVD><VD lemme="être"> est</VD> <NX>un</NX></PVD> </CD>
+<CD num="200"> <PVD><VD lemme="être"> est</VD> <NX>un</NX></PVD> </CD>
+<CD num="201"> <PVD><VD lemme="être">a toujours été</VD> <NX> une</NX></PVD> </CD>
+<CD num="202"> <PVD><VD lemme="être"> est</VD> <NX>un</NX></PVD> </CD>
+<CD num="203"> <PVD><VD lemme="être">était</VD><NX>la</NX></PVD> </CD>
+<CD num="204"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="205"> <PVD><VD lemme="être"> sont</VD><NX> le</NX> </PVD> </CD>
+<CD num="206"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="207"> <PVD><VD lemme="être"> est</VD> <NX>un</NX></PVD> </CD>
+<CD num="208"> <PVD><VD lemme="être"> sont</VD><NX> la</NX> </PVD> </CD>
+<CD num="209"> <PVD><VD lemme="être"> est</VD> <NX>un</NX></PVD> </CD>
+<CD num="210"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="211"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="212"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="213"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="214"> <PVD><VD lemme="être"> sont</VD><NX> la</NX> </PVD> </CD>
+<CD num="215"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="216"> <PVD><VD lemme="être"> pourrait aussi être</VD> <NX>un</NX> </PVD> </CD>
+<CD num="217"> <PVD><VD lemme="être">était</VD><NX>un</NX></PVD> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="218"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="219"> <PVD><VD lemme="être"> sont</VD><NX> le</NX> </PVD> </CD>
+<CD num="220"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="221"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="222"> <PVD><VD lemme="être">a été</VD> <NX> un</NX></PVD> </CD>
+<CD num="223"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="224"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="225"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="226"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="227"> <PVD><VD lemme="être"> sont</VD><NX> le</NX> </PVD> </CD>
+<CD num="228"> <PVD><VD lemme="être"> peut être</VD><NX> le</NX> </PVD> </CD>
+<CD num="229"> <PVD><VD lemme="être"> peut être</VD><NX> le</NX> </PVD> </CD>
+<CD num="230"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="231"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="232"> <PVD><VD lemme="être"> est</VD> <NX>l'</NX> </PVD> </CD>
+<CD num="233"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="234"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="235"> <PVD><VD lemme="être"> étant</VD> <NX>une</NX> </PVD> </CD>
+<CD num="236"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="237"> <PVD><VD lemme="être"> sont</VD><NX> le</NX> </PVD> </CD>
+<CD num="238"> <PVD><VD lemme="être"> pourrait être</VD><NX> l'</NX> </PVD> </CD>
+<CD num="239"> <PVD><VD lemme="être">est</VD> <NX> une</NX></PVD> </CD>
+<CD num="240"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="241"> <PVD><VD lemme="être"> avait été </VD><NX> le</NX> </PVD> </CD>
+<CD num="242"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="243"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="244"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="245"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="246"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="247"> <PVD><VD lemme="être"> a été </VD> <NX> le</NX> </PVD> </CD>
+<CD num="248"> <PVD><VD lemme="être">a rarement autant été</VD> <NX> une</NX> </PVD> </CD>
+<CD num="249"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="250"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="251"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="252"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="253"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="254"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="255"> <PVD><VD lemme="être"> avait été</VD> <NX> le</NX> </PVD> </CD>
+<CD num="256"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="257"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="258"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="259"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="260"> <PVD><VD lemme="être"> sont</VD> <NX>une</NX> </PVD> <PVD><VD lemme="appeler">appelés</VD></PVD> </CD>
+<CD num="261"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="262"> <PVD><VD lemme="être"> sont</VD><NX> un</NX> </PVD> </CD>
+<CD num="263"> <PVD><VD lemme="être"> est</VD> <NX>l'un</NX> </PVD> </CD>
+<CD num="264"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="265"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="266"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="267"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="268"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="269"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="270"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="271"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="272"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="273"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="274"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="275"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="276"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="277"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="278"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="279"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="280"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="281"> <PVD><VD lemme="être"> sont</VD><NX> la</NX> </PVD> </CD>
+<CD num="282"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="283"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="284"> <PVD><VD lemme="être"> sont</VD><NX> le</NX> </PVD> </CD>
+<CD num="285"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="286"> <PVD><VD lemme="être"> peut être</VD><NX> un</NX> </PVD> </CD>
+<CD num="287"> <PVD><VD lemme="être"> sont</VD><NX> la</NX> </PVD> </CD>
+<CD num="288"> <PVD><VD lemme="être"> sont</VD><NX> l'</NX> </PVD> </CD>
+<CD num="289"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="290"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="291"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="292"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="293"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="294"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="295"> <PVD><VD lemme="être"> peut être</VD><NX> un</NX> </PVD> </CD>
+<CD num="296"> <PVD><VD lemme="être"> étant</VD> <NX>un</NX> </PVD> </CD>
+<CD num="297"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="298"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="299"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="300"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="301"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="302"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="303"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="304"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="305"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="306"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="307"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="308"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="309"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="310"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="311"> <PVD><VD lemme="être"> sont</VD><NX> la</NX> </PVD> </CD>
+<CD num="312"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="313"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="314"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="315"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="316"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="317"> <PVD><VD lemme="être"> serait</VD> <NX>une</NX> </PVD> </CD>
+<CD num="318"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="319"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="320"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="321"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="322"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="323"> <PVD><VD lemme="être"> a rapidement été</VD> </PVD> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="324"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="325"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="326"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="327"> <PVD><MRD>aussi </MRD><VD lemme="appeler">appelé</VD></PVD> <PVD><VD lemme="être">est</VD> <NX> une</NX></PVD> </CD>
+<CD num="328"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="329"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="330"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="331"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="332"> <PVD><VD lemme="être"> sont</VD><NX> des</NX> </PVD> </CD>
+<CD num="333"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="334"> <PVD><VD lemme="appeler">appelée</VD><MRD>aussi </MRD></PVD> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="335"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="336"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="337"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> <PVD><VD lemme="appeler">appelée</VD><MRD>aussi </MRD></PVD> </CD>
+<CD num="338"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="339"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="340"> <PVD><VD lemme="appeler">Appelé</VD><MRD>aussi </MRD></PVD> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="341"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="342"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="343"> <PVD><VD lemme="appeler">Appelé</VD><MRD>aussi </MRD></PVD> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="344"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="345"> <PVD><VD lemme="être"> sont</VD><NX> des</NX> </PVD> </CD>
+<CD num="346"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="347"> <PVD><VD lemme="appeler">Appelée</VD><MRD>aussi </MRD></PVD> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="348"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="349"> <PVD><VD lemme="être"> seraient</VD> <NX>un</NX> </PVD> </CD>
+<CD num="350"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="351"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="352"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="353"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="354"> <PVD><VD lemme="être"> sont</VD><NX> le</NX> </PVD> </CD>
+<CD num="355"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="356"> <PVD><VD lemme="être"> sont</VD><NX> la</NX> </PVD> </CD>
+<CD num="357"> <PVD><VD lemme="être"> sont</VD> <NX>une</NX> </PVD> </CD>
+<CD num="358"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="359"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="360"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="361"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="362"> <PVD><VD lemme="être"> étant</VD> <NX>la</NX> </PVD> </CD>
+<CD num="363"> <PVD><VD lemme="être"> a été </VD> <NX> le</NX> </PVD> </CD>
+<CD num="364"> <PVD><VD lemme="appeler">appelé</VD></PVD> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="365"> <PVD><VD lemme="appeler">appelé</VD></PVD> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="366"> <PVD><NX>on </NX><VD lemme="appeler">appelle</VD></PVD> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="367"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="368"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="369"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="370"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="371"> <PVD><VD lemme="être"> sont</VD><NX> la</NX> </PVD> </CD>
+<CD num="372"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="373"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="374"> <PVD><VD lemme="baptiser"> a été baptisé</VD> </PVD> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> <PVD><VD lemme="nommer"> a été nommée</VD> </PVD> </CD>
+<CD num="375"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="376"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="377"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="378"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="379"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="380"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="381"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="382"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="383"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="384"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="385"> <PVD><MRD>également </MRD><VD lemme="appeler">appelée</VD></PVD> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="386"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="387"> <PVD><VD lemme="être"> sont</VD><NX> 2</NX> </PVD> </CD>
+<CD num="388"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="389"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="390"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="391"> <PVD><VD lemme="être">était</VD><NX>le</NX></PVD> </CD>
+<CD num="392"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="393"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="394"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="395"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="396"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="397"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="398"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="399"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="400"> <PVD><VD lemme="être"> semblent être</VD> <NX>les</NX> </PVD> </CD>
+<CD num="401"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="402"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="403"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="404"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="405"> <PVD><VD lemme="être"> sont</VD><NX> les</NX> </PVD> </CD>
+<CD num="406"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="407"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="408"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="409"> <PVD><VD lemme="être"> est</VD> <NX>l'</NX> </PVD> </CD>
+<CD num="410"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="411"> <PVD><VD lemme="être"> sera</VD> <NX>le</NX> </PVD> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="412"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="413"> <PVD><VD lemme="être"> soit</VD> <NX>un</NX> </PVD> </CD>
+<CD num="414"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="415"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="416"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="417"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="418"> <PVD><VD lemme="être"> sont</VD> <NX>une</NX> </PVD> </CD>
+<CD num="419"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="420"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="421"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="422"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="423"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="424"> <PVD><VD lemme="être"> a été </VD> <NX> le</NX> </PVD> </CD>
+<CD num="425"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="426"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="427"> <PVD><VD lemme="être"> est</VD> <NX>l'</NX> </PVD> </CD>
+<CD num="428"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="429"> <PVD><VD lemme="être"> soient</VD> <NX>un</NX> </PVD> </CD>
+<CD num="430"> <PVD><VD lemme="être"> sont</VD> <NX>une</NX> </PVD> </CD>
+<CD num="431"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="432"> <PVD><VD lemme="être"> seront</VD> <NX>la</NX> </PVD> </CD>
+<CD num="433"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="434"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="435"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="436"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="437"> <PVD><VD lemme="être"> sera</VD> <NX>l' </NX> </PVD> </CD>
+<CD num="438"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="439"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="440"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="441"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="442"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="443"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="444"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="445"> <PVD><NX>s'</NX><VD lemme="appeler">appeler</VD></PVD> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="446"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="447"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="448"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="449"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="450"> <PVD><VD lemme="être"> a été </VD> <NX> le</NX> </PVD> </CD>
+<CD num="451"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="452"> <PVD><VD lemme="être">était</VD><NX>un</NX></PVD> </CD>
+<CD num="453"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="454"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="455"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="456"> <PVD><VD lemme="être">a été</VD> <NX> une</NX></PVD> </CD>
+<CD num="457"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="458"> <PVD><VD lemme="être"> pourrait être</VD> <NX>une</NX> </PVD> </CD>
+<CD num="459"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="460"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="461"> <PVD><VD lemme="appeler">appelée</VD></PVD> <PVD><VD lemme="être">est</VD> <NX>le</NX></PVD> </CD>
+<CD num="462"> <PVD>qui<VD lemme="être">est</VD> <NX>une</NX></PVD> </CD>
+<CD num="463"> <PVD> qui <VD lemme="être">pourrait être</VD> <NX>une</NX></PVD> </CD>
+<CD num="464"> <PVD>qui<VD lemme="être">sont</VD> <NX>les </NX></PVD> </CD>
+<CD num="465"> <PVD><VD lemme="être">peut être</VD> <NX>un</NX></PVD> </CD>
+<CD num="466"> <PVD><VD lemme="être">est</VD> <NX> un</NX></PVD> </CD>
+<CD num="467"> <PVD><VD lemme="être">est</VD> <NX> une</NX></PVD> </CD>
+<CD num="468"> <PVD><VD lemme="être">peut être</VD> <NX>l' une</NX></PVD> </CD>
+<CD num="469"> <PVD><VD lemme="être">est </VD> <NX>un</NX></PVD> </CD>
+<CD num="470"> <PVD><VD lemme="être"> peut être</VD> <NX>une</NX></PVD> </CD>
+<CD num="471"> <PVD>et<VD lemme="être">sont</VD> <NX>un</NX></PVD> </CD>
+<CD num="472"> <PVD><VD lemme="être"> est </VD> <NX>la</NX></PVD> </CD>
+<CD num="473"> <PVD><VD lemme="être">sont</VD><NX>le </NX></PVD> </CD>
+<CD num="474"> <PVD><VD lemme="être"> est </VD> <NX>l'</NX></PVD> <PVD><VD lemme="appeler">appelées</VD></PVD> </CD>
+<CD num="475"> <PVD><VD lemme="appeler">appelées</VD></PVD> <PVD><VD lemme="être">sont</VD><NX>les</NX></PVD> </CD>
+<CD num="476"> <PVD><VD lemme="être">était</VD><NX>un</NX></PVD> </CD>
+<CD num="477"> <PVD><VD lemme="être">est</VD><NX>un</NX></PVD> </CD>
+<CD num="478"> <PVD> <VD lemme="être">est</VD><NX>la</NX></PVD> </CD>
+<CD num="479"> <PVD>qui<VD lemme="être">sont</VD><NX>les</NX></PVD> </CD>
+<CD num="480"> <PVD><VD lemme="être">sont</VD><NX>un</NX> </PVD> </CD>
+<CD num="481"> <PVD><VD lemme="être">peut, au contraire, être</VD><NX>une</NX></PVD> </CD>
+<CD num="482"> <PVD><VD lemme="être">doit être</VD> <NX>la</NX></PVD> </CD>
+<CD num="483"> <PVD><VD lemme="être">est</VD> <NX>l' </NX> </PVD> </CD>
+<CD num="484"> <PVD><VD lemme="être">est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="485"> <PVD><VD lemme="être">soient</VD><NX>le</NX> </PVD> </CD>
+<CD num="486"> <PVD><VD lemme="être">est</VD><NX>un</NX> </PVD> </CD>
+<CD num="487"> <PVD><VD lemme="être"> sont</VD><NX>les</NX> </PVD> </CD>
+<CD num="488"> <PVD><VD lemme="être">est</VD><NX>un</NX></PVD> </CD>
+<CD num="489"> <PVD><VD lemme="être"> est</VD><NX>une</NX> </PVD> </CD>
+<CD num="490"> <PVD> <VD lemme="être"> est </VD> <NX>un</NX> </PVD> </CD>
+<CD num="491"> <PVD><VD lemme="être"> est</VD><NX>une</NX> </PVD> </CD>
+<CD num="492"> <PVD><VD lemme="être"> est</VD><NX>un</NX> </PVD> </CD>
+<CD num="493"> <PVD><VD lemme="être"> est</VD><NX>un</NX> </PVD> </CD>
+<CD num="494"> <PVD><VD lemme="être"> est</VD> <NX> le </NX> </PVD> </CD>
+<CD num="495"> <PVD><VD lemme="être">sont </VD> <NX> les </NX> </PVD> </CD>
+<CD num="496"> <PVD><VD lemme="être"> est</VD><NX>une</NX> </PVD> </CD>
+<CD num="497"> <PVD><VD lemme="être">sont </VD><NX>une</NX> </PVD> </CD>
+<CD num="498"> <PVD><VD lemme="être"> est</VD><NX>la </NX> </PVD> </CD>
+<CD num="499"> <PVD><VD lemme="être"> est</VD><NX>une</NX> </PVD> </CD>
+<CD num="500"> <PVD><VD lemme="être"> est</VD><NX>le </NX> </PVD> </CD>
+<CD num="501"> <PVD><VD lemme="être">est</VD><NX>un</NX> </PVD> </CD>
+<CD num="502"> <PVD><VD lemme="être">est</VD><NX>un</NX> </PVD> </CD>
+<CD num="503"> <PVD><VD lemme="être"> est</VD><NX>un</NX> </PVD> </CD>
+<CD num="504"> <PVD><VD lemme="être">est</VD><NX>un</NX> </PVD> </CD>
+<CD num="505"> <PVD><VD lemme="être"> est</VD> aussi <NX> un </NX></PVD> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="506"> <PVD><VD lemme="être"> est</VD><NX> un</NX> </PVD> </CD>
+<CD num="507"> <PVD><VD lemme="être"> est</VD><NX>une</NX> </PVD> </CD>
+<CD num="508"> <PVD><VD lemme="être"> est</VD><NX>une</NX> </PVD> </CD>
+<CD num="509"> <PVD><VD lemme="être"> est</VD><NX>un</NX> </PVD> </CD>
+<CD num="510"> <PVD><VD lemme="être"> sont</VD><NX> les </NX> </PVD> </CD>
+<CD num="511"> <PVD><VD lemme="être"> est</VD><NX>une</NX> </PVD> </CD>
+<CD num="512"> <PVD><VD lemme="être"> est</VD><NX> l' un </NX> </PVD> </CD>
+<CD num="513"> <PVD><VD lemme="être"> seraient</VD><NX> la </NX></PVD> </CD>
+<CD num="514"> <PVD><VD lemme="être"> est</VD><NX>la </NX> </PVD> </CD>
+<CD num="515"> <PVD><VD lemme="être">est</VD><NX>un</NX> </PVD> </CD>
+<CD num="516"> <PVD><VD lemme="être"> est</VD><NX> une</NX> </PVD> </CD>
+<CD num="517"> <PVD><VD lemme="être"> était</VD><NX> un </NX></PVD> </CD>
+<CD num="518"> <PVD><VD lemme="être">est</VD><NX>un</NX> </PVD> </CD>
+<CD num="519"> <PVD><VD lemme="être"> sont</VD><NX> une</NX> </PVD> </CD>
+<CD num="520"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="521"> <PVD><VD lemme="être"> sont</VD> </PVD> </CD>
+<CD num="522"> <PVD><VD lemme="être"> était</VD><NX> le </NX> </PVD> </CD>
+<CD num="523"> <PVD><VD lemme="être"> est</VD><NX>le </NX> </PVD> </CD>
+<CD num="524"> <PVD><VD lemme="être"> est</VD><NX>le </NX> </PVD> </CD>
+<CD num="525"> <PVD><VD lemme="être"> est</VD><NX>une</NX> </PVD> </CD>
+<CD num="526"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="527"> <PVD><VD lemme="être"> est</VD><NX>la </NX> </PVD> </CD>
+<CD num="528"> <PVD><VD lemme="être"> est</VD><NX>la </NX> </PVD> </CD>
+<CD num="529"> <PVD><VD lemme="être"> est</VD><NX>une</NX> </PVD> </CD>
+<CD num="530"> <PVD>c’ <VD>est</VD> <NX>cette</NX></PVD> </CD>
+<CD num="531"> <PVD><VD>peut être</VD> <NX>un</NX></PVD> </CD>
+<CD num="532"> <PVD><VD>sera</VD><NX> un</NX></PVD> </CD>
+<CD num="533"> <PVD><VD lemme="être"> sera </VD><NX>l'</NX> </PVD> </CD>
+<CD num="534"> <PVD><VD lemme="être"> a été </VD><NX>l'</NX> </PVD> <PVD><VD lemme="être"> sera </VD><NX>l'</NX> </PVD> </CD>
+<CD num="535"> <PVD><VD lemme="être"> pourrait être</VD> <NX>une</NX> </PVD> </CD>
+<CD num="536"> <PVD><VD lemme="être"> est</VD> <NX>la</NX> </PVD> </CD>
+<CD num="537"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="538"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="539"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="540"> <PVD><VD lemme="être"> sont</VD> <NX>un</NX> </PVD> </CD>
+<CD num="541"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+<CD num="542"> <PVD><VD lemme="être"> est</VD> <NX>une</NX> </PVD> </CD>
+<CD num="543"> <PVD><VD lemme="être"> pourrait être</VD> <NX> une</NX> </PVD> </CD>
+<CD num="544"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="545"> <PVD><VD lemme="être"> est</VD> <NX>le</NX> </PVD> </CD>
+<CD num="546"> <PVD><VD lemme="être"> est</VD> <NX>un</NX> </PVD> </CD>
+
