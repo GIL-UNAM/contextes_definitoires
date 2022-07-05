@@ -1,5 +1,4 @@
 ﻿"corpus","user/gsierram/vqdq_fr"
-"subcorpus","-"
 Item,Frequency (focus),Frequency (reference),Relative frequency (focus),Relative frequency (reference),Score
 "covid-19",9124,0,3615.85376,0.00000,3616.854
 "coronavirus",2994,1219,1186.52637,0.17807,1008.027
