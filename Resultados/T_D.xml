@@ -134,7 +134,7 @@
 <CD num="134"> <T> sécurité sanitaire</T> <D>priorité de l'action gouvernementale</D> </CD>
 <CD num="135"> <T>grippe aviaire</T> <D>maladie</D> </CD>
 <CD num="136"> <T num="1">agents antiviraux</T> <D num="1">principal moyen d'intervention médicale pour lutter contre la <T num="2">morbidité et la mortalité</T>, lesquelles <PVD> <VD lemme="être"> sont</VD> <NX> la</NX> </PVD> <D num="2">première priorité lorsqu'une pandémie est en cours</D> </CD>
-<CD num="137"> <T>Tamiflu® de Roche</T> <T>phosphate d'oseltamivir</T> <D>premier antiviral oral prescrit dans le traitement de la grippe</D> </CD>
+<CD num="137"> <T num="1">Tamiflu® de Roche</T> <T num="2">phosphate d'oseltamivir</T> <D>premier antiviral oral prescrit dans le traitement de la grippe</D> </CD>
 <CD num="138"> <T>Tamiflu®</T> <D>inhibiteur de la neuraminidase, qui agit en attaquant le virus de la grippe et sa capacité à se répliquer, plutôt qu'en s'attaquant seulement aux symptômes grippaux</D> </CD>
 <CD num="139"> <T>Tamiflu®</T> <D>produit spécifiquement adapté à la constitution de stocks en vue d'une pandémie, et ce pour plusieurs raisons : 1) son efficacité contre les virus de la grippe de types A et B ; 2) l'absence de virus connu résistant au Tamiflu® et transmissible à l'homme ; 3) sa durée de conservation de cinq ans et 4) sa forme pharmaceutique en capsules</D> </CD>
 <CD num="140"> <T>Tamiflu®</T> <D>instrument majeur dans la stratégie de préparation et de réaction à une pandémie de grippe</D> </CD>
@@ -260,9 +260,9 @@
 <CD num="260"> <T>anticorps</T> <D>sous-classe des immoglobulines IgG spécifiques aux camélidés</D> <T>VHH</T> </CD>
 <CD num="261"> <T>transfusion de plasma de convalescence</T> <D>option de traitement potentiellement efficace pour les patients Covid; cependant, ces données suggèrent que les patients non intubés pourraient en bénéficier davantage que ceux nécessitant une ventilation mécanique</D> </CD>
 <CD num="262"> <T>anticorps</T> <D>élément clé des moyens de défense adaptatifs</D> </CD>
-<CD num="263"> <T>tocilizumab</T> <T>actemra</T> <T>roactemra</T> <D>des rares médicaments à base d'anticorps monoclonaux de synthèse</D> </CD>
+<CD num="263"> <T num="1">tocilizumab</T> <T num="2">actemra</T> <T num="1">roactemra</T> <D>des rares médicaments à base d'anticorps monoclonaux de synthèse</D> </CD>
 <CD num="264"> <T>casirivimab/imdevimab</T> <T>REGN-COV2</T> <D>traitement à base d'anticorps monoclonaux de synthèse développé par les sociétés pharmaceutiques américaine Regeneron et suisse Roche</D> </CD>
-<CD num="265"> <T>dexaméthasone</T> <T>dectancyl</T> <D>hormone de synthèse de la famille des corticostéroïdes qui fait partie des médicaments anti-inflammatoires stéroïdiens</D> </CD>
+<CD num="265"> <T num="1">dexaméthasone</T> <T num="1">dectancyl</T> <D>hormone de synthèse de la famille des corticostéroïdes qui fait partie des médicaments anti-inflammatoires stéroïdiens</D> </CD>
 <CD num="266"> <T>cas possible</T> <D>personne, quel que soit son statut vaccinal, ayant ou non été en contact à risque avec un cas confirmé dans les 14 jours précédant l’apparition des symptômes, présentant des signes cliniques évocateurs de COVID-19 : infection respiratoire aiguë avec une fièvre ou une sensation de fièvre, ou toute autre manifestation clinique suivante, de survenue brutale, selon l’avis du HCSP relatif aux signes cliniques d’orientation diagnostique du COVID-19</D> </CD>
 <CD num="267"> <T>cas probable</T> <D>personne, quel que soit son statut vaccinal, présentant des signes cliniques et des signes visibles en tomodensitométrie thoracique évocateurs de COVID-19</D> </CD>
 <CD num="268"> <T>cas confirm</T> <D>personne, symptomatique ou non, quel que soit son statut vaccinal, avec un résultat biologique confirmant l’infection par le SARS-CoV-2, par amplification moléculaire (RT</D> </CD>
@@ -307,7 +307,7 @@
 <CD num="307"> <T>SARS-CoV-2</T> <D>virus à ARN, ce qui signifie qu’il mute et se propage beaucoup plus rapidement qu’un virus à ADN</D> </CD>
 <CD num="308"> <T>ARN messager</T> <D>vecteur qui transporte une information jusqu’aux cellules afin de leur dire quelle protéine fabriquer</D> </CD>
 <CD num="309"> <T>Covid-Organics</T> <D>traitement</D> <D>préparation dont la composition n’a pas été rendue publique et qui est distribué massivement dans le pays, en bouteille, en bidon ou sous forme de tisane à base de feuilles séchées d’Artemisia, de décoction ou de gélules</D> </CD>
-<CD num="310"> <T>Charge virale</T> <T>titre viral</T> <D>nombre de copies d’un virus dans un volume de fluide donné</D> </CD>
+<CD num="310"> <T num="1">Charge virale</T> <T num="2">titre viral</T> <D>nombre de copies d’un virus dans un volume de fluide donné</D> </CD>
 <CD num="311"> <T>antipsychotiques</T> <D>principale catégorie de médicaments utilisés contre la schizophrénie et les troubles de la bipolarité</D> </CD>
 <CD num="312"> <T>Conseil National de l’Ordre des Médecins</T> <D>organisme professionnel, administratif et juridictionnel de défense et de régulation de la profession médicale</D> </CD>
 <CD num="313"> <D num="1">porte de sortie du virus</D> <T num="1">bouche</T> <D num="2">porte d’entrée principale</D> <T num="2">muqueuses de la bouche et du nez</T> </CD>
